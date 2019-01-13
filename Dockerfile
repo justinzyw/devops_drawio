@@ -1,1 +1,1 @@
-FROM fjudith/draw.io:9.1.6
+FROM fjudith/draw.io:10.0.22
